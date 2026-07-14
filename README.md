@@ -125,6 +125,3 @@ spring:
 
 ---
 
-## 📝 License
-
-MIT License
